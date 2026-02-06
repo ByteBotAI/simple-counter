@@ -3,7 +3,6 @@
 
 import argparse
 import json
-import os
 from pathlib import Path
 
 DATA_FILE = Path.home() / ".counter.json"
